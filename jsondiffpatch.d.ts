@@ -1,4 +1,2 @@
-declare module "jsondiffpatch" {
-  let JsonDiffPatch: any;
-  export = JsonDiffPatch; 
-}
+let JsonDiffPatch: any;
+export = JsonDiffPatch; 
