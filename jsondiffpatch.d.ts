@@ -1,2 +1,2 @@
-let JsonDiffPatch: any;
+declare let JsonDiffPatch: any;
 export = JsonDiffPatch; 
